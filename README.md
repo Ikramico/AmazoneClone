@@ -1,16 +1,8 @@
 # amazone_demo
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a demo amazon app with Server Side facilities
+This is a fullstack app.
+Flutter is used in frontend, NodeJs and Express in backend, MongoDB is for Database and Firebase for authentication.
+Anyone can upload, sell product via this app.
+Sellers can see orders to confirm and cancellation.
+Customers can buy product with add to cart facilities.
